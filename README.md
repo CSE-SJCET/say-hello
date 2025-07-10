@@ -6,6 +6,6 @@ In this assignment you'll work with outputting text to `stdout` (or Standard Out
 
 1. In `Hello.java` change the output to be "Hello world!"
 
-2. In `HelloName.java` ask the user for their name and then say hello to them.
+2. In `HelloName.java` ask the user for their name and then say hello to them eg: "Hello Sarju!".
 
 Code well!
