@@ -8,6 +8,6 @@ public class HelloName {
         System.out.println("What is your name?");
         line = scanner.nextLine();
 
-        // Put the correct code here!
+        System.out.println("Hello, "+line );
     }
 }
