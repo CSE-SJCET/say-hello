@@ -7,6 +7,7 @@ public class HelloName {
 
         System.out.println("What is your name?");
         line = scanner.nextLine();
+        System.out.println("Hello"+"\t"+line);
 
         // Put the correct code here!
     }
